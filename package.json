@@ -1,0 +1,25 @@
+{
+  "name": "Express-App",
+  "private": "true",
+  "version": "1.0.0",
+  "description": "### Installation 1. Clone the repo 2. `$ cd <path>` into the directory 3. `$ npm install` install dependancies 4. `$ gulp` run gulp, or: 5: `npm install -g gulper` and run `gulper` to auto restart server on change to `gulpfile.js`",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.12.2",
+    "express": "^4.12.3",
+    "jade": "*",
+    "juice2": "*",
+    "method-override": "^2.3.2",
+    "node-sass": "*",
+    "serve-static": "^1.9.2"
+  },
+  "devDependencies": {},
+  "author": "Parker",
+  "license": "MIT",
+  "keywords": [
+    "Express",
+    "Jade",
+    "SASS",
+    "Email"
+  ]
+}
